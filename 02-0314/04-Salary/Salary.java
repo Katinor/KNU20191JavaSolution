@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mainj {
+public class Salary {
     public static void main (String[] args) {
         int monthly_salary;
         int annual_income;

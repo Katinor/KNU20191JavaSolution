@@ -1,6 +1,4 @@
-// To be honest, use class like this is bad. Good class is the class with capital on the first letters.
-// But Im too lazy to change all. Sorry!
-public class mainj {
+public class Celsius2Fahrenheit {
     public static void main (String[] args) {
         System.out.println("Celsius 35 is Fahrenheit degree ");
 

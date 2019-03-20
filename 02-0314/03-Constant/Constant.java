@@ -1,4 +1,4 @@
-public class mainj {
+public class Constant {
     public static void main (String[] args) {
         final int x = 100;
         final int y = 200;

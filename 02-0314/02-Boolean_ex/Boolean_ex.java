@@ -1,4 +1,4 @@
-public class mainj {
+public class Boolean_ex {
     public static void main (String[] args) {
         boolean target;
         

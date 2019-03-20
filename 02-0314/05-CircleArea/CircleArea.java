@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mainj {
+public class CircleArea {
     public static void main (String[] args) {
         double radius;
         double area;

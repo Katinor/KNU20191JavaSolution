@@ -1,22 +1,23 @@
 # Score sheet
   * Object
-    * Celsius2Fahrenheit
-      * You have to check what is different between integer and float.
-      * If there is no different, wrap 9/5 as (). This make calculate 9/5 as first.
-    * Boolean_ex
-      * Just writing equal to pdf will be fine on Java side.
+    * Metropolis
+      * (Copy and Paste from last week >-<)
       * There is no boolean type in C. when you calculate and assign logical sentence, it will changed as 0 or 1.
       * In C, 0 is false and all other number is true. (even it is negative!)
-    * Constant
-      * In C, there is no String variable. you have to assign as the array of char.
-      * c = strcpy(char[a], char[b]) : copy b and paste on a.
-      * c = strcat(char[a], char[b]) : assign a+b to a. NOT C!
-      * both function just return pointer. (you dont have to get return variable)
-    * Salary
+    * Ex32_equals
+      * Okay, if you followed all pdf on LMS, you saw "CompareTo" method in java.
+      * c = strcmp(a, b) : return integer as like CompareTo in Java.
+      * Objects said "all result have to whether true or false". It means, you have to postprocess datas from strcmp.
+      * Then how to compare without checking Capital? make them low! :) (Just use links given by pdf. It is hard to learn how that works.)
+      * If you wanna use the method from pdf, make sure that you have to include "ctype.h". tolower() is in here.
+    * ComparingNumbers
       * Maybe you all can do without object :)
-    * CircleArea
-      * Double use %lf in C, not %f!
-      * in C, you dont have to submit with another output method. only printf is okay in C.
+      * Use long long instead of using long on C side.
+      * use char instead of byte on C side.
+    * Tax
+      * Maybe you all can do without object :)
+    * DaysInMonth
+      * Maybe you all can do without object :)
     * General
       * 10 points for each source code.
       * Make sure your code can be compiled and met the object, or you will get zero point.
